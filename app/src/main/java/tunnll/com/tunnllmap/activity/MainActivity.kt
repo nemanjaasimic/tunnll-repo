@@ -1,4 +1,4 @@
-package tunnll.com.tunnllmap
+package tunnll.com.tunnllmap.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
